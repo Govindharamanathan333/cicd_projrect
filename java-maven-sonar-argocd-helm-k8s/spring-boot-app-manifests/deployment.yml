@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: 192.168.0.210:8084/cicd_repo/spring-boot-app:34
+        image: 192.168.0.210:8084/cicd_repo/spring-boot-app:35
         ports:
         - containerPort: 8080
