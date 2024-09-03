@@ -1,0 +1,6 @@
+projectKey=thunder
+serverUrl=http://10.10.30.18:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://10.10.30.18:9000/dashboard?id=thunder
+ceTaskId=75dda028-1951-452b-a502-d298804b9d44
+ceTaskUrl=http://10.10.30.18:9000/api/ce/task?id=75dda028-1951-452b-a502-d298804b9d44
